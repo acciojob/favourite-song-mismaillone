@@ -7,8 +7,12 @@ width : 600px;
 h1{
 	text-align:center;
 	color: #76448a;
+	font-size: 20px;
 }
 iframe{
 	width : 600px;
 	height : 400px;
+}
+span{
+	color:blue;
 }
