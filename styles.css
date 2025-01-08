@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.fav{
+height : 600px;
+width : 600px;
+}
+h1{
+	text-align:center;
+	color: #76448a;
+}
+iframe{
+	width : 600px;
+	height : 400px;
+}
